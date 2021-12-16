@@ -1849,17 +1849,18 @@
       "hydro": 17092,
       "hydro storage": 5645,
       "nuclear": 7117,
-      "oil": 678,
-      "solar": 14557,
+      "oil": 8,
+      "solar": 16022,
       "unknown": 402,
-      "wind": 27255
+      "wind": 27523
     },
     "contributors": [
       "https://github.com/brandongalbraith",
       "https://github.com/corradio",
       "https://github.com/JosepRey",
       "https://github.com/nessie2013",
-      "https://github.com/KabelWlan"
+      "https://github.com/KabelWlan",
+      "https://github.com/lvm1"
     ],
     "flag_file_name": "es.png",
     "parsers": {
