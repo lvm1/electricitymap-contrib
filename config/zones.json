@@ -1843,23 +1843,24 @@
     ],
     "capacity": {
       "biomass": 1489,
-      "coal": 4643,
+      "coal": 3523,
       "gas": 33545,
       "geothermal": 0,
       "hydro": 17092,
       "hydro storage": 5645,
       "nuclear": 7117,
-      "oil": 678,
-      "solar": 14557,
+      "oil": 8,
+      "solar": 16318,
       "unknown": 402,
-      "wind": 27255
+      "wind": 27567
     },
     "contributors": [
       "https://github.com/brandongalbraith",
       "https://github.com/corradio",
       "https://github.com/JosepRey",
       "https://github.com/nessie2013",
-      "https://github.com/KabelWlan"
+      "https://github.com/KabelWlan,
+      "https://github.com/lvm1"
     ],
     "flag_file_name": "es.png",
     "parsers": {
@@ -2577,6 +2578,16 @@
     "timezone": "America/Guyana"
   },
   "HK": {
+    "bounding_box": [
+      [
+        113.337331576,
+        21.677069403000075
+      ],
+      [
+        114.90129642000011,
+        23.06394603200009
+      ]
+    ],
     "flag_file_name": "hk.png",
     "timezone": "Asia/Hong_Kong"
   },
@@ -2690,7 +2701,17 @@
   },
   "ID": {
     "flag_file_name": "id.png",
-    "timezone": "Asia/Jakarta"
+    "timezone": "Asia/Jakarta",
+    "bounding_box": [
+      [
+        94.51270592500003,
+        -11.422621351999908
+      ],
+      [
+        141.47762699400005,
+        6.410101630000042
+      ]
+    ]
   },
   "IE": {
     "_comment": "hydro incl. 292 MW pumped storage",
